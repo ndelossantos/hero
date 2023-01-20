@@ -1,0 +1,59 @@
+.skillvideo {
+    width: 100%;
+    height: auto
+}   
+
+.herolistcont{
+    
+    padding-right: 20px !important;
+    /* border:1px solid red */
+
+}
+
+.sidebar{
+    background-color: #525f7f !important
+}
+
+.heroListImg{
+    height:80px;
+    width:100%
+}
+
+.attrLogo{
+    border-radius:50px;
+    height:70px;
+    width:70px
+}
+
+.heroListImg:hover{
+    border: 1px solid;
+  /* padding: 10px; */
+  /* box-shadow: 2px 6px #888888; */
+  transform: scale(1.6);
+}
+
+.cbody{
+    /* border:1px solid red; */
+    padding: 50px 40px 1px 40px !important
+}
+
+.heroborderpick{
+    border: 2px solid #e14eca;
+}
+
+.showHeroHover{
+    /* border: 2px solid #e14eca; */
+    margin-top: 20px;
+    margin-left: -70px;
+    /* padding-right: 40px */
+    /* height: 80px;
+    width: 100px; */
+    text-align:center
+}
+
+.prevhero{
+    width: 100%;
+    height: auto;
+
+}
+
