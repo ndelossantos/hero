@@ -1,8 +1,8 @@
 {
-  "name": "black-dashboard-react",
+  "name": "dota-hero-guide",
   "version": "1.2.1",
   "private": true,
-  "homepage": "https://demos.creative-tim.com/black-dashboard-react/#/admin/dashboard",
+  "homepage": "x",
   "dependencies": {
     "@fortawesome/fontawesome-free": "6.1.1",
     "bootstrap": "^4.6.0",
