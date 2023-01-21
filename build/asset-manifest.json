@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/x/static/css/main.10ac37be.css",
+    "main.css": "/x/static/css/main.5e43a0b0.css",
     "main.js": "/x/static/js/main.33e39dbc.js",
     "static/media/attr_str.jpeg": "/x/static/media/attr_str.4d60dc5a0f6b83d19086.jpeg",
     "static/media/dota2logo.png": "/x/static/media/dota2logo.c69f43ecf993f5e141bb.png",
@@ -22,11 +22,11 @@
     "static/media/attr_agi.jpeg": "/x/static/media/attr_agi.613ccfdf76fd3e473e8d.jpeg",
     "static/media/fa-v4compatibility.woff2": "/x/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
     "index.html": "/x/index.html",
-    "main.10ac37be.css.map": "/x/static/css/main.10ac37be.css.map",
+    "main.5e43a0b0.css.map": "/x/static/css/main.5e43a0b0.css.map",
     "main.33e39dbc.js.map": "/x/static/js/main.33e39dbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.10ac37be.css",
+    "static/css/main.5e43a0b0.css",
     "static/js/main.33e39dbc.js"
   ]
 }
